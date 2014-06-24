@@ -13,3 +13,6 @@ they should, etc.
 
 The tests performed were developed as part of the 500 Subject Data Release project with 
 the input and assistance of Greg Burgess, Staff Scientist on the HCP. 
+
+<!-- References -->
+[HCP]: http://www.humanconnectome.org
