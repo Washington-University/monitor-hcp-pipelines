@@ -9,3 +9,6 @@
 
 # Ignore the .gitignore file itself
 .gitignore
+
+# Ignore output files from monitoring
+*.out
