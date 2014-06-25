@@ -19,5 +19,11 @@ Other checks performed by the scripts in this repository can be referred to as
 completion" in that they examine contents and relationships between contents of 
 files produced by the indicated type of processing. 
 
+Another set of "checks" are simply written to collect data about the pipeline
+processing. For example, CollectTopologyCorrectionNumbers is not checking for the 
+successful completion of pipeline processing or performing a sanity check. Instead,
+it is collecting data about how many topology corrections are done (an their size)
+in the structural preprocessing.
+
 <!-- References -->
 [HCP]: http://www.humanconnectome.org
