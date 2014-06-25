@@ -1,6 +1,7 @@
-# Check Functional Preprocessing
+Check Functional Preprocessing
+==============================
 
-## Script Description
+# Script Description
 
 The CheckFunctionalPreprocessing.sh script performs a series of tests on the output of the 
 [Human Connectome Project][HCP] Minimal Preprocessing Pipeline functional preprocessing.
