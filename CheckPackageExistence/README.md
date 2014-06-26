@@ -1,7 +1,7 @@
 CheckPackageExistence
 =====================
 
-# Description
+## Description
 
 The CheckPackageExistence.sh script performs checks to determine whether 
 appropriate package files exist for a specified subject.
