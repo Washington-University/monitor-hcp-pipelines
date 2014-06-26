@@ -1,0 +1,5 @@
+SubjectID	Resource	Resources Present	Data Present
+100307	rfMRI_REST1_RL	True	False
+100307	rfMRI_REST1_LR	True	False
+100307	rfMRI_REST2_RL	True	False
+100307	rfMRI_REST2_LR	True	False
