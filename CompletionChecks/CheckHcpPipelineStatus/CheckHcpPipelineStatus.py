@@ -11,31 +11,17 @@ g_debug=False
 class CommandLineOptions(object):
     """Class for storing command line options specified for this program"""
     def __init__(self, user_name, password, server_name, 
-                 pipeline, project, subjects, output_path, verbose):
-        """initialize an instance
-        
-        :param user_name: the XNAT user name 
-        :type user_name: string
-        :param password: the password for the XNAT user
-        :type password: string
-        :param server_name: the name of the XNAT server
-        :type server_name: string
-        :param pipeline: the classification of pipelines to check (structural, functional, diffusion)
-        :type pipeline: string
-        :param project: the XNAT project to check
-        :type project: string
-        :param subjects: the project subjects to check (comma separated list)
-        :type subjects: string
-        :param output_path: path to output file to produce
-        :type output_path: string
-        :param verbose: indication of whether verbose status information should be output to stdout
-        :type verbose: boolean
-        """
+                 pipeline, functional_task_names, ica_task_names,
+                 diffusion_voxel_size, project, subjects, output_path, verbose):
+        """initialize an instance"""
         super(CommandLineOptions, self).__init__()
         self.__user_name = user_name
         self.__password = password
         self.__server_name = server_name
         self.__pipeline = pipeline
+        self.__functional_task_names = functional_task_names
+        self.__ica_task_names = ica_task_names
+        self.__diffusion_voxel_size = diffusion_voxel_size
         self.__project = project
         self.__subjects = subjects
         self.__output_path = output_path
@@ -56,6 +42,15 @@ class CommandLineOptions(object):
     def get_pipeline(self):
         """get the pipeline classification indicator"""
         return self.__pipeline
+
+    def get_functional_task_names(self):
+        return self.__functional_task_names
+
+    def get_ica_task_names(self):
+        return self.__ica_task_names
+
+    def get_diffusion_voxel_size(self):
+        return self.__diffusion_voxel_size
 
     def get_project(self):
         """get the project"""
@@ -134,6 +129,15 @@ def parse_command_line():
     parser.add_argument("-p", "--password", dest="password", default="", help="Password", type=str)
     parser.add_argument("-s", "--server", dest="server", default="https://db.humanconnectome.org", help="DB Server", type=str)
     parser.add_argument("-pl", "--pipeline", dest="pipeline", required=True, help="Pipeline [structural|functional|diffusion|fix|task]", type=str)
+    parser.add_argument("-ftn", "--functional-task-names", dest="functional_task_names", 
+                        default="rfMRI_REST1,rfMRI_REST2,tfMRI_WM,tfMRI_GAMBLING,tfMRI_MOTOR,tfMRI_LANGUAGE,tfMRI_RELATIONAL,tfMRI_SOCIAL,tfMRI_EMOTION",
+                        help="Comma separated list of functional tasks to check. Only applicable if --pipeline=functional is specified", type=str)
+    parser.add_argument("-itn", "--ica-task-names", dest="ica_task_names", 
+                        default="rfMRI_REST1,rfMRI_REST2",
+                        help="Comma separated list of ICA FIX processed tasks to check. Only applicable if --pipeline=fix is specified", type=str)
+    parser.add_argument("-dvs", "--diffusion-voxel-size", dest="diffusion_voxel_size",default="1.25",
+                        help="Diffusion voxel size in millimeters (mm). Specified to 2 decimal points. Only applicable if --pipeline=diffusion is specified", 
+                        type=str)
     parser.add_argument("-pr", "--project", dest="project", required=True, help="Project", type=str)
     parser.add_argument("-su", "--subjects", dest="subjects", default="All", 
                         help="Comma separated list of subjects. If not supplied check all subjects in project", type=str)
@@ -146,7 +150,9 @@ def parse_command_line():
         args.password = getpass.getpass()
 
     command_line_options = CommandLineOptions(
-        args.user, args.password, args.server, args.pipeline, args.project, args.subjects, args.output, args.verbose)
+        args.user, args.password, args.server, args.pipeline, args.functional_task_names, 
+        args.ica_task_names, args.diffusion_voxel_size, 
+        args.project, args.subjects, args.output, args.verbose)
 
     return command_line_options
 
@@ -160,14 +166,16 @@ def show_options(command_line_options):
     if not g_debug:
         return
 
-    print "User Name: " + str(command_line_options.get_user_name())
-    print "Password : " + "************"
-    print "Server   : " + str(command_line_options.get_server_name())
-    print "Pipeline : " + str(command_line_options.get_pipeline())
-    print "Project  : " + str(command_line_options.get_project())
-    print "Subjects : " + str(command_line_options.get_subjects())
-    print "Output   : " + str(command_line_options.get_output_path())
-    print "Verbose  : " + str(command_line_options.get_verbose())
+    print "            User Name: " + str(command_line_options.get_user_name())
+    print "             Password: " + "************"
+    print "               Server: " + str(command_line_options.get_server_name())
+    print "             Pipeline: " + str(command_line_options.get_pipeline())
+    print "Functional Task Names: " + str(command_line_options.get_functional_task_names())
+    print "   ICA FIX Task Names: " + str(command_line_options.get_ica_task_names())
+    print "              Project: " + str(command_line_options.get_project())
+    print "             Subjects: " + str(command_line_options.get_subjects())
+    print "               Output: " + str(command_line_options.get_output_path())
+    print "              Verbose: " + str(command_line_options.get_verbose())
 
 def output_processing_status(outfile, status):
     """output processing status information to the specified file
@@ -279,7 +287,7 @@ def check_structural_status(verbose, getHCP, subject_to_check):
     return processing_status
 
 
-def check_diffusion_status(verbose, getHCP, subject_to_check):
+def check_diffusion_status(verbose, getHCP, subject_to_check, diffusion_voxel_size):
     """check the status of diffusion processing for a subject
     
     :param verbose: indication of whether to include verbose processing status info on stdout
@@ -294,14 +302,26 @@ def check_diffusion_status(verbose, getHCP, subject_to_check):
     vprint(verbose, "\nChecking diffusion preprocessing status for subject: " + subject_to_check)
 
     # List of names of files to look for on diffusion preprocessing resource
-    diffusion_file_names = [
-        'T1w_acpc_dc_restore_1mm.nii.gz',   # This file exists before diffusion preprocessing is done
-        'T1w_acpc_dc_restore_1.25.nii.gz',  # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
-        'bvals',                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
-        'bvecs',                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
-        'data.nii.gz',                      # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
-        'nodif_brain_mask.nii.gz',          # This file is created by the pre-eddy phase.
-        'grad_dev.nii.gz']                  # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    # diffusion_file_names = [
+    #     'T1w_acpc_dc_restore_1mm.nii.gz',   # This file exists before diffusion preprocessing is done
+    #     'T1w_acpc_dc_restore_1.25.nii.gz',  # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    #     'bvals',                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    #     'bvecs',                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    #     'data.nii.gz',                      # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    #     'nodif_brain_mask.nii.gz',          # This file is created by the pre-eddy phase.
+    #     'grad_dev.nii.gz']                  # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+
+
+    diffusion_file_names = list()
+
+    diffusion_file_names.append('T1w_acpc_dc_restore_1mm.nii.gz')   # This file exists before diffusion preprocessing is done
+    resampled_T1w_file_name = 'T1w_acpc_dc_restore_' + diffusion_voxel_size + '.nii.gz'
+    diffusion_file_names.append(resampled_T1w_file_name)            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    diffusion_file_names.append('bvals')                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    diffusion_file_names.append('bvecs')                            # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    diffusion_file_names.append('data.nii.gz')                      # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
+    diffusion_file_names.append('nodif_brain_mask.nii.gz')          # This file is created by the pre-eddy phase.
+    diffusion_file_names.append('grad_dev.nii.gz')                  # This file does not exist before diffusion preprocessing is done, and doesn't exist after the pre-eddy phase either.
 
 
     # Other potential files to check
@@ -410,7 +430,7 @@ def check_diffusion_status(verbose, getHCP, subject_to_check):
 
     return processing_status
     
-def check_functional_status(verbose, getHCP, subject_to_check):
+def check_functional_status(verbose, getHCP, subject_to_check, task_names):
     """check the status of functional processing for a subject
 
     :param getHCP: object to interact with HCP database
@@ -420,18 +440,9 @@ def check_functional_status(verbose, getHCP, subject_to_check):
     :return ProcessingStatusList: list of indications of processing status for checked subject
     """
     vprint(verbose, "\nChecking functional preprocessing status for subject: " + subject_to_check)
-
-    functional_task_names = [
-        'rfMRI_REST1',
-        'rfMRI_REST2',
-        'tfMRI_WM',
-        'tfMRI_GAMBLING',
-        'tfMRI_MOTOR',
-        'tfMRI_LANGUAGE',
-        'tfMRI_RELATIONAL',
-        'tfMRI_SOCIAL',
-        'tfMRI_EMOTION']
     
+    functional_task_names = ((task_names.split(',')))
+                             
     # List of names of files to look for on functional preprocessing resource
     functional_file_names = [
         'Movement_Regressors_dt.txt', 
@@ -516,7 +527,7 @@ def check_functional_status(verbose, getHCP, subject_to_check):
 
     return functional_processing_status_list
 
-def check_fix_status(verbose, getHCP, subject_to_check):
+def check_fix_status(verbose, getHCP, subject_to_check, task_names):
     """check the status of ica-fix processing for a subject
 
     :param verbose: indication of whether to include verbose processing status info on stdout
@@ -530,9 +541,7 @@ def check_fix_status(verbose, getHCP, subject_to_check):
     
     vprint(verbose, "\nChecking ICA+FIX status for subject: " + subject_to_check)
 
-    fix_task_names = [
-        'rfMRI_REST1',
-        'rfMRI_REST2']
+    fix_task_names = ((task_names.split(',')))
 
     # List of names of files to look for in fix resource
     fix_file_names = [
@@ -754,6 +763,9 @@ def main():
     Server     = command_line_options.get_server_name()
     Pipeline   = command_line_options.get_pipeline()
     Project    = command_line_options.get_project()
+    FunctionalTaskNames  = command_line_options.get_functional_task_names()
+    IcaTaskNames = command_line_options.get_ica_task_names()
+    DiffusionVoxelSize = command_line_options.get_diffusion_voxel_size()
     Subjects   = command_line_options.get_subjects()
     OutputPath = command_line_options.get_output_path()
     Verbose    = command_line_options.get_verbose()
@@ -776,16 +788,16 @@ def main():
             processing_status_list.append(structural_processing_status)
 
         if ('funct' in Pipeline.lower()):
-            functional_processing_status_list = check_functional_status(Verbose, getHCP, subjects_to_check[i])
+            functional_processing_status_list = check_functional_status(Verbose, getHCP, subjects_to_check[i], FunctionalTaskNames)
             for functional_processing_status in functional_processing_status_list:
                 processing_status_list.append(functional_processing_status)
 
         if ('diff' in Pipeline.lower()):
-            diffusion_processing_status = check_diffusion_status(Verbose, getHCP, subjects_to_check[i])
+            diffusion_processing_status = check_diffusion_status(Verbose, getHCP, subjects_to_check[i], DiffusionVoxelSize)
             processing_status_list.append(diffusion_processing_status)
 
         if ('fix' in Pipeline.lower()):
-            fix_processing_status_list = check_fix_status(Verbose, getHCP, subjects_to_check[i])
+            fix_processing_status_list = check_fix_status(Verbose, getHCP, subjects_to_check[i], IcaTaskNames)
             for fix_processing_status in fix_processing_status_list:
                 processing_status_list.append(fix_processing_status)
 

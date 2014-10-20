@@ -51,7 +51,7 @@
 # Description:
 #  Global variables to define scan types and directions
 #
-declare -a restingScanTypes=(REST1 REST2)
+declare -a restingScanTypes=(REST1 REST2 REST3 REST4)
 declare -a taskScanTypes=(WM GAMBLING MOTOR LANGUAGE RELATIONAL SOCIAL EMOTION)
 declare -a allScanTypes=( ${restingScanTypes[@]} ${taskScanTypes[@]} )
 declare -a directions=(RL LR)

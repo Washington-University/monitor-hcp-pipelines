@@ -9,18 +9,15 @@ read password
 echo ""
 stty echo
 
-printf "Subject ID: "
+printf "Subject ID: " 
 read subj
-
-printf "Project: "
-read project
 
 python ../CheckHcpPipelineStatus.py \
     --verbose=True \
-    -u ${username} \
+    -u tbbrown \
     -p ${password} \
-    -pl task \
-    -pr "${project}" \
+    -pl fix \
+    -pr HCP_Staging \
     -o "${subj}.out" \
     -su "${subj}"
 
