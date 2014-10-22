@@ -7,6 +7,9 @@
 *~
 *.*~
 
+# Ignore subject list input files for monitoring
+*.subjects
+
 # Ignore output files from monitoring
 *.out
 *.xlsx
