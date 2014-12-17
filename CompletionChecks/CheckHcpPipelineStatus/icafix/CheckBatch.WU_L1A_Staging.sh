@@ -9,15 +9,9 @@ read password
 echo ""
 stty echo
 
-# subjects=""
-# subjects="${subjects} LS2001 LS2003 LS2008 LS2009 LS2037 LS2043 LS3017 LS3019 LS3026 LS3029 "
-# subjects="${subjects} LS3040 LS3046 LS4025 LS4036 LS4041 LS4043 LS4047 LS5041 "
-
-# subjects="LS2009 LS4041"
-
-subjects="LS5007"
-
 project="WU_L1A_Staging"
+from_file=( $( cat ${project}.icafix.subjects ) )
+subjects="`echo "${from_file[@]}"`"
 
 for subject in ${subjects} ; do
 

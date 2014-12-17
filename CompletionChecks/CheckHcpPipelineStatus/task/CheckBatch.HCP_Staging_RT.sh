@@ -9,19 +9,21 @@ read password
 echo ""
 stty echo
 
-# subjects=""
-# subjects="${subjects} 103818 122317 137128 139839 143325 149337 151526 158035 175439 177746 "
-# subjects="${subjects} 185442 192439 194140 195041 250427 599671 662551 783462 859671 861456 "
-# subjects="${subjects} 917255 "
+subject_files_dir=~/subject_list_files
+project="HCP_Staging_RT"
+subject_file_name="${subject_files_dir}/${project}.task.subjects"
+echo "Retrieving subject list from: ${subject_file_name}"
+subject_list_from_file=( $( cat ${subject_file_name} ) )
+subjects="`echo "${subject_list_from_file[@]}"`"
 
-subjects="341834"
-
-
-project=HCP_Staging_RT
+mkdir -p ${project}
 
 for subject in ${subjects} ; do
-
-    echo "Checking Subject: ${subject}"
+    echo ""
+    echo "--------------------------------------------------------------------------------"
+    echo " Checking Task fMRI Analysis Processing completeness for subject: ${subject} in project: ${project}"
+    echo "--------------------------------------------------------------------------------"
+    echo ""
 
     python ../CheckHcpPipelineStatus.py \
         --verbose=True \
@@ -29,9 +31,9 @@ for subject in ${subjects} ; do
         -p ${password} \
         -pl task \
         -pr ${project} \
-        -o "${subject}.out" \
+        -o "${project}/${subject}.out" \
         -su "${subject}"
 
-    more "${subject}.out"
+    more "${project}/${subject}.out"
 
 done

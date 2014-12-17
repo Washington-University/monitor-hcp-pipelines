@@ -9,24 +9,19 @@ read password
 echo ""
 stty echo
 
-# subjects=""
-# subjects="${subjects} LS2001 LS2003 LS2008 LS2009 LS2037 LS2043 LS3017 LS3019 LS3026 LS3029 "
-# subjects="${subjects} LS3040 LS3046 LS4025 LS4036 LS4041 LS4043 LS4047 LS5041 "
-
-# subjects="LS2009 LS4041"
-
-# subjects=""
-# subjects="${subjects} LS2001 LS2003 LS2008 LS2009 LS2037 LS2043 LS3017 LS3019 LS3026 LS3029 "
-# subjects="${subjects} LS3040 LS3046 LS4025 LS4036 LS4041 LS4043 LS4047 LS5038 LS5040 LS5041 "
-# subjects="${subjects} LS5049 LS6003 LS6006 LS6009 LS6038 LS6046 "
-
-subjects="LS5007"
-
+subject_files_dir=~/subject_list_files
 project="WU_L1A_Staging"
+subject_file_name="${subject_files_dir}/${project}.task.subjects"
+echo "Retrieving subject list from: ${subject_file_name}"
+subject_list_from_file=( $( cat ${subject_file_name} ) )
+subjects="`echo "${subject_list_from_file[@]}"`"
 
 for subject in ${subjects} ; do
-
-    echo "Checking Subject: ${subject}"
+    echo ""
+    echo "--------------------------------------------------------------------------------"
+    echo " Checking Task fMRI Analysis Processing completeness for subject: ${subject} in project: ${project}"
+    echo "--------------------------------------------------------------------------------"
+    echo ""
 
     python ../CheckHcpPipelineStatus.py \
         --verbose=True \

@@ -13,3 +13,6 @@
 # Ignore output files from monitoring
 *.out
 *.xlsx
+
+# Ignore compiled Python modules
+*.pyc

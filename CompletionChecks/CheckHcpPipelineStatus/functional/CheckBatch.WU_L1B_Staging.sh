@@ -9,12 +9,19 @@ read password
 echo ""
 stty echo
 
+subject_files_dir=~/subject_list_files
 project="WU_L1B_Staging"
-
-from_file=( $( cat ${project}.functional.subjects ) )
-subjects="`echo "${from_file[@]}"`"
+subject_file_name="${subject_files_dir}/${project}.functional.subjects"
+echo "Retrieving subject list from: ${subject_file_name}"
+subject_list_from_file=( $( cat ${subject_file_name} ) )
+subjects="`echo "${subject_list_from_file[@]}"`"
 
 for subject in $subjects ; do
+    echo ""
+    echo "--------------------------------------------------------------------------------"
+    echo " Checking Functional Preprocessing completeness for subject: ${subject} in project: ${project}"
+    echo "--------------------------------------------------------------------------------"
+    echo ""
 
     python ../CheckHcpPipelineStatus.py \
         --verbose=True \

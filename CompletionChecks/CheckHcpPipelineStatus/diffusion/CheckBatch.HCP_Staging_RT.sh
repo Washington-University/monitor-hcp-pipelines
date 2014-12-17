@@ -9,12 +9,21 @@ read password
 echo ""
 stty echo
 
+subject_files_dir=~/subject_list_files
 project="HCP_Staging_RT"
+subject_file_name="${subject_files_dir}/${project}.diffusion.subjects"
+echo "Retrieving subject list from: ${subject_file_name}"
+subject_list_from_file=( $( cat ${subject_file_name} ) )
+subjects="`echo "${subject_list_from_file[@]}"`"
 
-from_file=( $( cat ${project}.diffusion.subjects ) )
-subjects="`echo "${from_file[@]}"`"
+mkdir -p ${project}
 
 for subject in ${subjects} ; do
+    echo ""
+    echo "--------------------------------------------------------------------------------"
+    echo " Checking Diffusion Preprocessing completeness for subject: ${subject} in project: ${project}"
+    echo "--------------------------------------------------------------------------------"
+    echo ""
 
     python ../CheckHcpPipelineStatus.py \
         --verbose=True \
@@ -22,9 +31,9 @@ for subject in ${subjects} ; do
         -p "${password}" \
         -pl diffusion \
         -pr "${project}" \
-        -o "${subject}.out" \
+        -o "${project}/${subject}.out" \
         -su "${subject}"
     
-    more "${subject}.out"
+    more "${project}/${subject}.out"
 
 done
