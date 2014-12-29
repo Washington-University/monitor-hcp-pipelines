@@ -14,6 +14,8 @@ password="ThisIsNotMyPassword"
 project="HCP_Staging"
 subjects="970764"
 
+mkdir -p ${project}
+
 for subject in $subjects ; do
     echo "Checking functional preprocessing completeness for subject: ${subject} in project: ${project}"
 
@@ -23,8 +25,8 @@ for subject in $subjects ; do
         -p ${password} \
         -pl functional \
         -pr ${project} \
-        -o "${subject}.out" \
+        -o "${project}/${subject}.out" \
         -su "${subject}"
 
-    more "${subject}.out"
+    more "${project}/${subject}.out"
 done

@@ -89,10 +89,7 @@ subjects="${subjects} 947668"
 subjects="${subjects} 955465"
 subjects="${subjects} 996782"
 
-
-
-
-
+mkdir -p ${project}
 
 for subject in ${subjects} ; do
 
@@ -104,9 +101,9 @@ for subject in ${subjects} ; do
         -p ${password} \
         -pl fix \
         -pr ${project} \
-        -o "${subject}.out" \
+        -o "${project}/${subject}.out" \
         -su "${subject}"
 
-    more "${subject}.out"
+    more "${project}/${subject}.out"
 
 done

@@ -25,5 +25,32 @@ successful completion of pipeline processing or performing a sanity check. Inste
 it is collecting data about how many topology corrections are done (an their size)
 in the structural preprocessing.
 
+* CheckForOtherSubjectsData
+
+  - Special test written to check for condition in which one subject has 
+    another subject's data files in it's resources
+
+* CheckFunctionalPreprocessing
+
+  - Post Pipeline Sanity Check for functional preprocessing
+
+* CheckPackageExistence
+
+  - Checks for the existence of Structural, Functional, and Diffusion 
+    preprocessed packages for a project
+
+* CollectTopologyCorrectionNumbers
+
+  - Looks through the provenance archive for Structural_preproc resources
+    containing log files named StructuralHCP.log.  Those logs are searched
+    for lines indicating defect corrections.
+
+* CompletionChecks
+
+  - Main checks for pipeline completion. 
+    - Old: <code>getPipelineResources</code>
+    - New: <code>CheckHcpPipelineStatus</code>
+   
+
 <!-- References -->
 [HCP]: http://www.humanconnectome.org

@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ -z "${SUBJECT_FILES_DIR}" ] ; then
+    echo "Environment variable SUBJECT_FILES_DIR must be set!"
+    exit 1
+fi
+
 printf "Connectome DB Username: " 
 read username
 
@@ -10,12 +15,19 @@ echo ""
 stty echo
 
 project="WU_L1A_Staging"
-from_file=( $( cat ${project}.icafix.subjects ) )
-subjects="`echo "${from_file[@]}"`"
+subject_file_name="${SUBJECT_FILES_DIR}/${project}.icafix.subjects"
+echo "Retrieving subject list from: ${subject_file_name}"
+subject_list_from_file=( $( cat ${subject_file_name} ) )
+subjects="`echo "${subject_list_from_file[@]}"`"
+
+mkdir -p ${project}
 
 for subject in ${subjects} ; do
-
-    echo "Checking Subject: ${subject}"
+    echo ""
+    echo "--------------------------------------------------------------------------------"
+    echo " Checking ICA FIX Processing completeness for subject: ${subject} in project: ${project}"
+    echo "--------------------------------------------------------------------------------"
+    echo ""
 
     python ../CheckHcpPipelineStatus.py \
         --verbose=True \
@@ -24,9 +36,9 @@ for subject in ${subjects} ; do
         -pl fix \
         -itn "rfMRI_REST1,rfMRI_REST2,rfMRI_REST3,rfMRI_REST4,rfMRI_REST5" \
         -pr ${project} \
-        -o "${subject}.out" \
+        -o "${project}/${subject}.out" \
         -su "${subject}"
 
-    more "${subject}.out"
+    more "${project}/${subject}.out"
 
 done
