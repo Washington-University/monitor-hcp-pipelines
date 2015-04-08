@@ -14,7 +14,7 @@ read password
 echo ""
 stty echo
 
-project="PipelineTest"
+project="WU_L37_Staging"
 subject_file_name="${SUBJECT_FILES_DIR}/${project}.icafix.subjects"
 echo "Retrieving subject list from: ${subject_file_name}"
 subject_list_from_file=( $( cat ${subject_file_name} ) )
@@ -29,7 +29,7 @@ for subject in ${subjects} ; do
     echo "--------------------------------------------------------------------------------"
     echo ""
 
-    python ../CheckHcpPipelineStatus.py \
+    python ../CheckHcpPipelineStatusPrisma3T.py \
         --verbose=True \
         -u ${username} \
         -p ${password} \

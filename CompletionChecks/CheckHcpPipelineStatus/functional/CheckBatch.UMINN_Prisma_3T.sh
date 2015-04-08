@@ -29,7 +29,7 @@ for subject in $subjects ; do
     echo "--------------------------------------------------------------------------------"
     echo ""
 
-    python ../CheckHcpPipelineStatus.py \
+	python ../CheckHcpPipelineStatusPrisma3T.py \
         --verbose=True \
         -u ${userid} \
         -p ${password} \

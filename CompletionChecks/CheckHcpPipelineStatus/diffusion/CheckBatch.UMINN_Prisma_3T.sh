@@ -14,7 +14,7 @@ read password
 echo ""
 stty echo
 
-project="PipelineTest"
+project="WU_L37_Staging"
 subject_file_name="${SUBJECT_FILES_DIR}/${project}.diffusion.subjects"
 echo "Retrieving subject list from: ${subject_file_name}"
 subject_list_from_file=( $( cat ${subject_file_name} ) )
