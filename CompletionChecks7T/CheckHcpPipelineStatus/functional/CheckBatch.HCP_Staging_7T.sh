@@ -17,7 +17,7 @@ check_subject()
         -o "${project}/${subject}.out" \
         -su "${subject}"
 
-    more "${project}/${subject}.out"
+    cat "${project}/${subject}.out"
 }
 
 
