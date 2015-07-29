@@ -13,6 +13,6 @@ subjects="`echo "${subject_list_from_file[@]}"`"
 
 for subject in ${subjects} ; do
 	if [[ ${subject} != \#* ]]; then
-		./CheckForPostFixCompletion.sh --project=${project} --subject=${subject}
+		./CheckForPostFixCompletion.sh --project=${project} --subject=${subject} # --details
 	fi
 done

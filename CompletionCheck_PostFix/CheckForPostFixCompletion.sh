@@ -94,30 +94,37 @@ main() {
 
 	#echo "scans: ${scans}"
 
-	file_suffixes="_Atlas_BiasField.dscalar.nii"
-	file_suffixes+=" _Atlas_CleanedMGT.txt"
-	file_suffixes+=" _Atlas_HighPassMGT.txt"
-	file_suffixes+=" _Atlas_hp2000_clean_vn.dscalar.nii"
-	file_suffixes+=" _Atlas_NoiseMGT.txt"
-	file_suffixes+=" _Atlas_OrigMGT.txt"
-	file_suffixes+=" _Atlas_PostMotionMGT.txt"
-	file_suffixes+=" _Atlas_stats.dscalar.nii"
-	file_suffixes+=" _Atlas_stats.txt"
-	file_suffixes+=" _Atlas_UnstructNoiseMGT.txt"
-
 	for scan in ${scans} ; do
-		# does Resting State States Resource exist
 
+		# does PostFix resource exist
 		resourceDir=${archiveDir}/RESOURCES/${scan}_PostFix
 		if [ -d "${resourceDir}" ] ; then
 			resource_exists="TRUE"
 		else
 			resource_exists="FALSE"
 		fi
+
+		check_dir="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}"
+		files=""
+		files+="${check_dir}/${g_subject}_${scan}_ICA_Classification_dualscreen.scene"
+		files+=" ${check_dir}/${g_subject}_${scan}_ICA_Classification_singlescreen.scene"
+		files+=" ${check_dir}/ReclassifyAsNoise.txt"
+		files+=" ${check_dir}/ReclassifyAsSignal.txt"
+		files+=" ${check_dir}/${scan}_Atlas_hp2000.dtseries.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/Noise.txt"
+		files+=" ${check_dir}/${scan}_hp2000.ica/Signal.txt"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/ICAVolumeSpace.txt"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/mask.nii.gz"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_FTmix.sdseries.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_mix.sdseries.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dscalar.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dtseries.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dscalar.nii"
+		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dtseries.nii"
 		
+
 		all_files_exist="TRUE"
-		for suffix in ${file_suffixes} ; do
-			filename="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}/${scan}${suffix}"
+		for filename in ${files} ; do
 			
 			if [ ! -e "${filename}" ] ; then
 				all_files_exist="FALSE"
@@ -129,6 +136,7 @@ main() {
 		done
 
 		echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+
 	done
 }
 
