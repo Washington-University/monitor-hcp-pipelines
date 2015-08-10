@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./CheckForRestingStateStatsCompletion.Batch.sh HCP_500
+./CheckForRestingStateStatsCompletion.Batch.sh HCP_Staging
