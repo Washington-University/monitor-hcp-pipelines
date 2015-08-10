@@ -106,29 +106,38 @@ main() {
 	file_suffixes+=" _Atlas_UnstructNoiseMGT.txt"
 
 	for scan in ${scans} ; do
-		# does Resting State States Resource exist
+		# does preproc Resource exist
+		preproc_resource_dir=${archiveDir}/RESOURCES/${scan}_preproc
+		if [ -d "${preproc_resource_dir}" ] ; then
 
-		resourceDir=${archiveDir}/RESOURCES/${scan}_RSS
-		if [ -d "${resourceDir}" ] ; then
-			resource_exists="TRUE"
-		else
-			resource_exists="FALSE"
-		fi
-		
-		all_files_exist="TRUE"
-		for suffix in ${file_suffixes} ; do
-			filename="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}/${scan}${suffix}"
-			
-			if [ ! -e "${filename}" ] ; then
-				all_files_exist="FALSE"
+			# does Resting State States Resource exist
 
-				if [ "${g_details}" = "TRUE" ]; then
-					echo "Does not exist: ${filename}"
-				fi
+			resourceDir=${archiveDir}/RESOURCES/${scan}_RSS
+			if [ -d "${resourceDir}" ] ; then
+				resource_exists="TRUE"
+			else
+				resource_exists="FALSE"
 			fi
-		done
+		
+			all_files_exist="TRUE"
+			for suffix in ${file_suffixes} ; do
+				filename="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}/${scan}${suffix}"
+				
+				if [ ! -e "${filename}" ] ; then
+					all_files_exist="FALSE"
+					
+					if [ "${g_details}" = "TRUE" ]; then
+						echo "Does not exist: ${filename}"
+					fi
+				fi
+			done
 
-		echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+			echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+
+		else
+			echo -e "\tScan: ${scan}\tPreprocessed Scan DOES NOT EXIST"
+		fi
+
 	done
 }
 

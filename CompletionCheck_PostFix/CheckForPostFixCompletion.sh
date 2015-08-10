@@ -96,46 +96,53 @@ main() {
 
 	for scan in ${scans} ; do
 
-		# does PostFix resource exist
-		resourceDir=${archiveDir}/RESOURCES/${scan}_PostFix
-		if [ -d "${resourceDir}" ] ; then
-			resource_exists="TRUE"
-		else
-			resource_exists="FALSE"
-		fi
+		# does FIX resource exist
+		fix_resource_dir=${archiveDir}/RESOURCES/${scan}_FIX
+		if [ -d "${fix_resource_dir}" ] ; then
 
-		check_dir="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}"
-		files=""
-		files+="${check_dir}/${g_subject}_${scan}_ICA_Classification_dualscreen.scene"
-		files+=" ${check_dir}/${g_subject}_${scan}_ICA_Classification_singlescreen.scene"
-		files+=" ${check_dir}/ReclassifyAsNoise.txt"
-		files+=" ${check_dir}/ReclassifyAsSignal.txt"
-		files+=" ${check_dir}/${scan}_Atlas_hp2000.dtseries.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/Noise.txt"
-		files+=" ${check_dir}/${scan}_hp2000.ica/Signal.txt"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/ICAVolumeSpace.txt"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/mask.nii.gz"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_FTmix.sdseries.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_mix.sdseries.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dscalar.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dtseries.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dscalar.nii"
-		files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dtseries.nii"
-		
-
-		all_files_exist="TRUE"
-		for filename in ${files} ; do
-			
-			if [ ! -e "${filename}" ] ; then
-				all_files_exist="FALSE"
-
-				if [ "${g_details}" = "TRUE" ]; then
-					echo "Does not exist: ${filename}"
-				fi
+			# does PostFix resource exist
+			resourceDir=${archiveDir}/RESOURCES/${scan}_PostFix
+			if [ -d "${resourceDir}" ] ; then
+				resource_exists="TRUE"
+			else
+				resource_exists="FALSE"
 			fi
-		done
 
-		echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+			check_dir="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}"
+			files=""
+			files+="${check_dir}/${g_subject}_${scan}_ICA_Classification_dualscreen.scene"
+			files+=" ${check_dir}/${g_subject}_${scan}_ICA_Classification_singlescreen.scene"
+			files+=" ${check_dir}/ReclassifyAsNoise.txt"
+			files+=" ${check_dir}/ReclassifyAsSignal.txt"
+			files+=" ${check_dir}/${scan}_Atlas_hp2000.dtseries.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/Noise.txt"
+			files+=" ${check_dir}/${scan}_hp2000.ica/Signal.txt"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/ICAVolumeSpace.txt"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/mask.nii.gz"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_FTmix.sdseries.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_mix.sdseries.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dscalar.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC.dtseries.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dscalar.nii"
+			files+=" ${check_dir}/${scan}_hp2000.ica/filtered_func_data.ica/melodic_oIC_vol.dtseries.nii"
+			
+			all_files_exist="TRUE"
+			for filename in ${files} ; do
+			
+				if [ ! -e "${filename}" ] ; then
+					all_files_exist="FALSE"
+
+					if [ "${g_details}" = "TRUE" ]; then
+						echo "Does not exist: ${filename}"
+					fi
+				fi
+			done
+
+			echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+
+		else
+			echo -e "\tScan: ${scan}\tFIX processed scan DOES NOT EXIST"
+		fi
 
 	done
 }
