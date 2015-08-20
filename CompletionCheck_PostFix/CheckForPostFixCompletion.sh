@@ -108,7 +108,7 @@ main() {
 				resource_exists="FALSE"
 			fi
 
-			check_dir="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}"
+			check_dir="${resourceDir}/MNINonLinear/Results/${scan}"
 			files=""
 			files+="${check_dir}/${g_subject}_${scan}_ICA_Classification_dualscreen.scene"
 			files+=" ${check_dir}/${g_subject}_${scan}_ICA_Classification_singlescreen.scene"
