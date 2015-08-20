@@ -94,9 +94,10 @@ main() {
 
 	#echo "scans: ${scans}"
 
-	file_suffixes="_Atlas_BiasField.dscalar.nii"
+	file_suffixes=""
 	file_suffixes+=" _Atlas_CleanedMGT.txt"
 	file_suffixes+=" _Atlas_HighPassMGT.txt"
+	file_suffixes+=" _Atlas_hp2000_clean_bias.dscalar.nii"
 	file_suffixes+=" _Atlas_hp2000_clean_vn.dscalar.nii"
 	file_suffixes+=" _Atlas_NoiseMGT.txt"
 	file_suffixes+=" _Atlas_OrigMGT.txt"
@@ -121,7 +122,7 @@ main() {
 		
 			all_files_exist="TRUE"
 			for suffix in ${file_suffixes} ; do
-				filename="${resourceDir}/${g_subject}/MNINonLinear/Results/${scan}/${scan}${suffix}"
+				filename="${resourceDir}/MNINonLinear/Results/${scan}/${scan}${suffix}"
 				
 				if [ ! -e "${filename}" ] ; then
 					all_files_exist="FALSE"
