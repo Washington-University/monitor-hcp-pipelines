@@ -1,0 +1,3599 @@
+Retrieving subject list from: /home/NRG/tbrown01/subject_list_files/HCP_500.PostFix.subjects
+
+Project: HCP_500
+Subject: 100307
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 100408
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 101006
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 101107
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 101309
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 101410
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 101915
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 102008
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 102311
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 102816
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 103111
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 103414
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 103515
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 103818
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 104012
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 104820
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 105014
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 105115
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 105216
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 105923
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 106016
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 106319
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 106521
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 107321
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 107422
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 108121
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 108323
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 108525
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 108828
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 109123
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 109325
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 110411
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 111312
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 111413
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 111514
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 111716
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 112819
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 113215
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 113619
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 113821
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 113922
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 114419
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 114924
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 115320
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 116120
+	Scan: rfMRI_REST1_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 116524
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 117122
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 117324
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 118528
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 118730
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 118932
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 119833
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 120111
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 120212
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 120515
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 121315
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 121618
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 122317
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 122620
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 123117
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 123420
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 123925
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 124220
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 124422
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 124826
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 125525
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 126325
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 126628
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 127630
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 127933
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 128127
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 128329
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 128632
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 129028
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 129533
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 130013
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 130316
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 130922
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 131217
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 131722
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 131924
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 132118
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 133019
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 133625
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 133827
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 133928
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 134324
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 135225
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 135528
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 135932
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 136227
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 136833
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 137027
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 137128
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 137633
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 137936
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 138231
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 138534
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 139233
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 139637
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 140117
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 140420
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 140824
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 140925
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 141422
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 141826
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 142424
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 142626
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 142828
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 143325
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 144226
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 144832
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 145531
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 145834
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 146129
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 146331
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 146432
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 147030
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 147737
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 148032
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 148335
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 148840
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 148941
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 149337
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 149539
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 149741
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 150423
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 150524
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 150625
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 150726
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 151223
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 151526
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 151627
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 151728
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 152831
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 153025
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 153429
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 153732
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 153833
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 154431
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 154734
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 154835
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 154936
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 155231
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 155635
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 156233
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 156334
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 156637
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 157336
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 157437
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 158035
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 158136
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 158540
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 159138
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 159239
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 159340
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 159441
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 160123
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 160830
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 161327
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 161630
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 161731
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 162026
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 162228
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 162329
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 162733
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 163129
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 163331
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 163432
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 163836
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 164030
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 164131
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 164939
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 165032
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 165234
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 165840
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 166438
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 167036
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 167743
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 168139
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 168341
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 169141
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 169343
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 169444
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 170934
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 171431
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 171633
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 172029
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 172130
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 172332
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 172534
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 172938
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 173132
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 173334
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 173435
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 173536
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 173940
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 175035
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 175439
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 175540
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 176542
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 177645
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 177746
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 178142
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 178748
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 178849
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 178950
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 179346
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 180129
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 180432
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 180836
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 180937
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 181131
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 181232
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 182739
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 182840
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 183034
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 185139
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 185442
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 186141
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 187143
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 187547
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 187850
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 188347
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 189349
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 189450
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 190031
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 191033
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 191336
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 191437
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 191841
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 192439
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 192540
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 192641
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 192843
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 193239
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 194140
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 194645
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 194847
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 195041
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 195647
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 195849
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 196144
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 196750
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 197348
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 197550
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 197651
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 198350
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 198451
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 198855
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 199150
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 199251
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 199453
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 199655
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 199958
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 200109
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 200614
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 201111
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 201414
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 201818
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 203418
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 204016
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 204521
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 205119
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 205220
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 205725
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 205826
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 208024
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 208226
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 208327
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 208428
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 209834
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 209935
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 210011
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 210415
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 210617
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 211215
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 211316
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 211417
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 211720
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 211922
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 212116
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 212217
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 212318
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 212419
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 214019
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 214221
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 214423
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 214726
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 217126
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 217429
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 221319
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 224022
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 231928
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 233326
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 239944
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 245333
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 246133
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 249947
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 250427
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 250932
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 251833
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 255639
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 256540
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 268850
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 280739
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 284646
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 285345
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 285446
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 287248
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 289555
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 290136
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 293748
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 298051
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 298455
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 303119
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 303624
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 304020
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 307127
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 308331
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 310621
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 316633
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 329440
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 334635
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 339847
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 351938
+	Scan: rfMRI_REST1_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 352132
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 352738
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 355239
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 356948
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 361941
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 365343
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 366042
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 366446
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 371843
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 377451
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 380036
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 382242
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 385450
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 386250
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 390645
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 395958
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 397154
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 397760
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 397861
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 412528
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 414229
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 415837
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 422632
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 433839
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 436239
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 436845
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 441939
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 445543
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 448347
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 465852
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 473952
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 475855
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 479762
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 480141
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 485757
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 486759
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 497865
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 499566
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 500222
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 510326
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 512835
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 519950
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 521331
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 522434
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 530635
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 531536
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 540436
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 541943
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 545345
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 547046
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 552544
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 559053
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 561242
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 562446
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 565452
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 566454
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 567052
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 567961
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 568963
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 570243
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 571548
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 573249
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 573451
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 579665
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 580044
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 580347
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 581349
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 583858
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 585862
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 586460
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 592455
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 594156
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 598568
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 599469
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 599671
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 601127
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 613538
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 620434
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 622236
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 623844
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 627549
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 638049
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 644044
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	FIX processed scan DOES NOT EXIST
+	Scan: rfMRI_REST2_RL	FIX processed scan DOES NOT EXIST
+
+Project: HCP_500
+Subject: 645551
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 654754
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 660951
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 662551
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 665254
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 672756
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 673455
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 677968
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 679568
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 680957
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 683256
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 685058
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 687163
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 690152
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 695768
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 702133
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 704238
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 705341
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 709551
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 713239
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 715041
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 715647
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 715950
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 729254
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 729557
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 732243
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 734045
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 742549
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 748258
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 748662
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 749361
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 751348
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 753251
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 756055
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 759869
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 761957
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 765056
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 770352
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 771354
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 779370
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 782561
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 783462
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 784565
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 786569
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 788876
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 789373
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 792564
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 792766
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 802844
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 814649
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 816653
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 825048
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 826353
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 826454
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 833148
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 833249
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 837560
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 837964
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 845458
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 849971
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 856766
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 857263
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 859671
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 861456
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 865363
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 871762
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 871964
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 872158
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 872764
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 877168
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 877269
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 885975
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 887373
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 889579
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 894673
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 896778
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 896879
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 898176
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 899885
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 901038
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 901139
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 901442
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 904044
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 907656
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 910241
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 912447
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 917255
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 922854
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 930449
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 932554
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 937160
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 951457
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 957974
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 958976
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 959574
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 965367
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 965771
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 978578
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 979984
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 983773
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 984472
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 987983
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 991267
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 992774
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
+
+Project: HCP_500
+Subject: 994273
+	Scan: rfMRI_REST1_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST1_RL	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_LR	Resource Exists: TRUE	Files Exist: TRUE
+	Scan: rfMRI_REST2_RL	Resource Exists: TRUE	Files Exist: TRUE
