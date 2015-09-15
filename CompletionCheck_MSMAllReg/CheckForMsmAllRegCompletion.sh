@@ -85,11 +85,10 @@ main() {
 
 	presentDir=`pwd`
 	archiveDir="${ARCHIVE_ROOT}/${g_project}/${ARCHIVE_PROJ_SUBDIR}/${g_subject}${TESLA_SPEC}"
-	echo "archiveDir: ${archiveDir}"
+	#echo "archiveDir: ${archiveDir}"
 
 	# does MSMAllReg resource exist
-	msm_all_reg_resource_dir=${archiveDir}/RESOURCES/rfMRI_REST_MSMAllReg
-	#msm_all_reg_resource_dir=${archiveDir}/RESOURCES/MSMAllReg
+	msm_all_reg_resource_dir=${archiveDir}/RESOURCES/MSMAllReg
 
 	if [ -d "${msm_all_reg_resource_dir}" ] ; then
 		resource_exists="TRUE"
