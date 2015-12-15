@@ -3,6 +3,7 @@
 ARCHIVE_ROOT="/data/hcpdb/archive"
 ARCHIVE_PROJ_SUBDIR="arc001"
 TESLA_SPEC="_3T"
+PIPELINE_VERSION="v3.7.1"
 
 usage() {
 	echo "Usage information TBW"
@@ -79,9 +80,13 @@ main() {
 
 	get_options $@
 
-	echo ""
-	echo "Project: ${g_project}"
-	echo "Subject: ${g_subject}"
+	tmp_file="${g_project}.${g_subject}.tmp"
+
+	if [ -e "${tmp_file}" ]; then
+		rm -f ${tmp_file}
+	fi
+
+	subject_complete="TRUE"
 
 	presentDir=`pwd`
 	archiveDir="${ARCHIVE_ROOT}/${g_project}/${ARCHIVE_PROJ_SUBDIR}/${g_subject}${TESLA_SPEC}"
@@ -95,7 +100,6 @@ main() {
 	#echo "scans: ${scans}"
 
 	for scan in ${scans} ; do
-
 		# does FIX resource exist
 		fix_resource_dir=${archiveDir}/RESOURCES/${scan}_FIX
 		if [ -d "${fix_resource_dir}" ] ; then
@@ -106,6 +110,7 @@ main() {
 				resource_exists="TRUE"
 			else
 				resource_exists="FALSE"
+				subject_complete="FALSE"
 			fi
 
 			check_dir="${resourceDir}/MNINonLinear/Results/${scan}"
@@ -131,6 +136,7 @@ main() {
 			
 				if [ ! -e "${filename}" ] ; then
 					all_files_exist="FALSE"
+					subject_complete="FALSE"
 
 					if [ "${g_details}" = "TRUE" ]; then
 						echo "Does not exist: ${filename}"
@@ -138,13 +144,24 @@ main() {
 				fi
 			done
 
-			echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+			#echo -e "\tScan: ${scan}\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}" >> ${tmp_file}
+			echo -e "${g_subject}\t\t${g_project}\t${PIPELINE_VERSION}\t${scan}_PostFix\t${resource_exists}\t${all_files_exist}" >> ${tmp_file}
+
 
 		else
-			echo -e "\tScan: ${scan}\tFIX processed scan DOES NOT EXIST"
+			#echo -e "\tScan: ${scan}\tFIX processed scan DOES NOT EXIST" >> ${tmp_file}
+			echo -e "${g_subject}\t\t${g_project}\t${PIPELINE_VERSION}\t${scan}_PostFix\t---\t---" >> ${tmp_file}
 		fi
 
 	done
+
+	if [ "${subject_complete}" = "TRUE" ]; then
+		cat ${tmp_file} >> ${g_project}.complete.txt
+	else
+		cat ${tmp_file} >> ${g_project}.incomplete.txt
+	fi
+	cat ${tmp_file}
+	rm -f ${tmp_file}
 }
 
 main $@
