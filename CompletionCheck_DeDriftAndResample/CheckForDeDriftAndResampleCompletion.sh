@@ -3,6 +3,7 @@
 ARCHIVE_ROOT="/data/hcpdb/archive"
 ARCHIVE_PROJ_SUBDIR="arc001"
 TESLA_SPEC="_3T"
+PIPELINE_VERSION="v3.13.2"
 
 usage() {
 	echo "Usage information TBW"
@@ -79,9 +80,13 @@ main() {
 
 	get_options $@
 
-	echo ""
-	echo "Project: ${g_project}"
-	echo "Subject: ${g_subject}"
+	tmp_file="${g_project}.${g_subject}.tmp"
+
+	if [ -e "${tmp_file}" ]; then
+		rm -f ${tmp_file}
+	fi
+
+	subject_complete="TRUE"
 
 	presentDir=`pwd`
 	archiveDir="${ARCHIVE_ROOT}/${g_project}/${ARCHIVE_PROJ_SUBDIR}/${g_subject}${TESLA_SPEC}"
@@ -92,12 +97,13 @@ main() {
 
 	if [ -d "${msm_all_dedrift_resource_dir}" ] ; then
 		resource_exists="TRUE"
+		resource_date=$(stat -c %y ${msm_all_dedrift_resource_dir})
+		resource_date=${resource_date%%\.*}
 	else
 		resource_exists="FALSE"
+		subject_complete="FALSE"
+		resource_date="N/A"
 	fi
-
-	#echo "msm_all_dedrift_resource_dir: ${msm_all_dedrift_resource_dir}"
-	#echo "resource_exists: ${resource_exists}"
 
 	files=""
 
@@ -170,9 +176,9 @@ main() {
 		functional_scan_name=${functional_scan_name%_preproc}
 		#echo "functional_scan_name: ${functional_scan_name}"
 
-
 		check_dir="${msm_all_dedrift_resource_dir}/MNINonLinear/Results/${functional_scan_name}"
 
+		#echo "atlas file to add: ${check_dir}/${functional_scan_name}_Atlas_MSMAll.dtseries.nii"
 		files+=" ${check_dir}/${functional_scan_name}_Atlas_MSMAll.dtseries.nii"
 		files+=" ${check_dir}/${functional_scan_name}_MSMAll.L.atlasroi.32k_fs_LR.func.gii"
 		files+=" ${check_dir}/${functional_scan_name}_MSMAll.R.atlasroi.32k_fs_LR.func.gii"
@@ -218,6 +224,7 @@ main() {
 			
 		if [ ! -e "${filename}" ] ; then
 			all_files_exist="FALSE"
+			subject_complete="FALSE"
 
 			if [ "${g_details}" = "TRUE" ]; then
 				echo "Does not exist: ${filename}"
@@ -225,7 +232,16 @@ main() {
 		fi
 	done
 
-	echo -e "\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+	#echo -e "\tResource Exists: ${resource_exists}\tFiles Exist: ${all_files_exist}"
+	echo -e "${g_subject}\t\t${g_project}\t${PIPELINE_VERSION}\tMSMAllDeDrift\t${resource_exists}\t${resource_date}\t${all_files_exist}" >> ${tmp_file}
+
+	if [ "${subject_complete}" = "TRUE" ]; then
+		cat ${tmp_file} >> ${g_project}.complete.txt
+	else
+		cat ${tmp_file} >> ${g_project}.incomplete.txt
+	fi
+	cat ${tmp_file}
+	rm -f ${tmp_file}
 }
 
 main $@
