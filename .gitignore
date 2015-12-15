@@ -11,6 +11,7 @@
 *.subjects
 
 # Ignore output files from monitoring
+*.txt
 *.out
 *.xlsx
 
