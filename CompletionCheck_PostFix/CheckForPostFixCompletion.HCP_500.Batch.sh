@@ -11,6 +11,9 @@ echo "Retrieving subject list from: ${subject_file_name}"
 subject_list_from_file=( $( cat ${subject_file_name} ) )
 subjects="`echo "${subject_list_from_file[@]}"`"
 
+rm -f ${project}.complete.txt
+rm -f ${project}.incomplete.txt
+
 for subject in ${subjects} ; do
 	if [[ ${subject} != \#* ]]; then
 		./CheckForPostFixCompletion.sh --project=${project} --subject=${subject} # --details
