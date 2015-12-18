@@ -1,6 +1,5 @@
 #!/bin/bash
 
-ARCHIVE_ROOT="/data/hcpdb/archive"
 ARCHIVE_PROJ_SUBDIR="arc001"
 TESLA_SPEC="_3T"
 PIPELINE_VERSION="v3.13.2"
@@ -73,8 +72,14 @@ get_options() {
 main() {
 
 	host=`hostname`
-	if [ "${host}" != "hcpx-fs01.nrg.mir" ] ; then
-		echo "ERROR: This script is intended to be run on host: hcpx-fs01.nrg.mir"
+	domain=`domainname`
+	if [ "${host}" = "hcpx-fs01.nrg.mir" ] ; then
+		archive_root="/data/hcpdb/archive"
+	elif [[ ${host} == login* && "${domain}" == CHPC ]] ; then
+		archive_root="/HCP/hcpdb/archive"
+	else
+		echo "ERROR: This script is intended to be run either on host: hcpx-fs01.nrg.mir"
+		echo "ERROR: or on a CHPC login node"
 		exit 1
 	fi
 
@@ -89,7 +94,7 @@ main() {
 	subject_complete="TRUE"
 
 	presentDir=`pwd`
-	archiveDir="${ARCHIVE_ROOT}/${g_project}/${ARCHIVE_PROJ_SUBDIR}/${g_subject}${TESLA_SPEC}"
+	archiveDir="${archive_root}/${g_project}/${ARCHIVE_PROJ_SUBDIR}/${g_subject}${TESLA_SPEC}"
 	#echo "archiveDir: ${archiveDir}"
 
 	# does MSMAllDeDrift resource exist
