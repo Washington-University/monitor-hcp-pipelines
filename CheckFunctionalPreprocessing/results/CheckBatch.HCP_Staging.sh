@@ -15,5 +15,6 @@ mkdir -p ${project}
 
 for subject in $subjects ; do
     echo "Checking subject: ${subject}"
+    #../CheckFunctionalPreprocessing.sh --project=${project} --subjects=${subject} --debug | tee ${project}/${subject}.out | grep FAIL
     ../CheckFunctionalPreprocessing.sh --project=${project} --subjects=${subject} | tee ${project}/${subject}.out | grep FAIL
 done
